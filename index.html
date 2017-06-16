@@ -11,7 +11,6 @@ title: Home
     <article class="post_card post">
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
-        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
       </header>
       <div class="post_excerpt">
         <p>
@@ -20,7 +19,6 @@ title: Home
           {% else %}
           {{ post.excerpt }}
           {% endif %} 
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
         </p> 
       </div>
       <footer class="post_meta">
@@ -35,7 +33,6 @@ title: Home
         <!--
         {% for category in post.categories %}
         <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
-          <data data-icon="ei-archive"></data>
           {{category}}</a>
         {% endfor %}
         -->
@@ -53,10 +50,8 @@ title: Home
           <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
         </p-->
       </footer>
-      <hr/>
     </article>
     {% endfor %}
 
-    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
   </div>
 </div>
