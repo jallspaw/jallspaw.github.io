@@ -1,4 +1,6 @@
 ---
 layout: post
 ---
-John Allspaw is a person.
+I'm an engineering leader, researcher, dad, guitarist, and person.
+I live in Brooklyn, NY.
+I tend to wake up early and enthusiastically share things that I learn.
