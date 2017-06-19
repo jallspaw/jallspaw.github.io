@@ -1,6 +1,6 @@
 ---
 layout: post
 ---
-I'm an engineering leader, researcher, dad, guitarist, and person.
-I live in Brooklyn, NY.
-I tend to wake up early and enthusiastically share things that I learn.
+I'm an engineering leader, researcher, dad, guitarist, and person.  
+I live in Brooklyn, NY.  
+I tend to wake up early and enthusiastically share things that I learn.  
