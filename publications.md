@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 
-Allspaw, J. (2008). The Art of Capacity Planning. Sebastapol, CA: OReilly.
+Allspaw, J. (2008). The Art of Capacity Planning. Sebastapol, CA: OReilly. <a href="https://shop.oreilly.com/product/9780596518585.do" style="color:green" target="_blank">(link)</a>
 
-Allspaw, J., & Robbins, J. (2010). Web operations (1st ed.). Beijing China ; Sebastopol, CA: O’Reilly
+Allspaw, J., & Robbins, J. (2010). Web operations (1st ed.). Beijing China ; Sebastopol, CA: O’Reilly <a href="https://shop.oreilly.com/product/0636920000136.do" style="color:green" target="_blank">(link)</a>
 
-Allspaw, J. (2012). Fault injection in production. Communications of the ACM (Vol. 55, pp. 48–52). Communications of the ACM. http://doi.org/10.1145/2347736.2347751
+Allspaw, J. (2012). Fault injection in production:Making the case for resilience testing. Communications of the ACM (Vol. 55, pp. 48–52). Communications of the ACM. http://doi.org/10.1145/2347736.2347751 <a href="http://queue.acm.org/detail.cfm?id=2353017" style="color:green" target="_blank">(link)</a>
 
-Limoncelli, T., Robbins, J., Krishnan, K., & Allspaw, J. (2012). Resilience engineering: learning to embrace failure. Communications of the ACM, 55(11), 40–47.
+Limoncelli, T., Robbins, J., Krishnan, K., & Allspaw, J. (2012). Resilience engineering: learning to embrace failure. Communications of the ACM, 55(11), 40–47. <a href="http://queue.acm.org/detail.cfm?id=2371297" style="color:green" target="_blank">(link)</a>
 
-Allspaw, J. (2015). Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages (Master's thesis, Lund University, Lund, Sweden). Retrieved from http://lup.lub.lu.se/student-papers/record/8084520
+Allspaw, J. (2015). Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages (Master's thesis, Lund University, Lund, Sweden). Retrieved from http://lup.lub.lu.se/student-papers/record/8084520 <a href="http://lup.lub.lu.se/student-papers/record/8084520" style="color:green" target="_blank">(link)</a>
 
