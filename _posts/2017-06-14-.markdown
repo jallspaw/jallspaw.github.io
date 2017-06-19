@@ -1,6 +1,5 @@
 ---
 layout: post
-title: John Allspaw
 ---
 I'm an engineering leader, researcher, dad, guitarist, and person.  
 I live in Brooklyn, NY.  
