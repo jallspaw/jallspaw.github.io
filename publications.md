@@ -18,3 +18,6 @@ Allspaw, J. (2015). Trade-Offs Under Pressure: Heuristics and Observations Of Te
 Allspaw, J. (2016, May 22). Blameless PostMortems and a Just Culture. Retrieved from https://codeascraft.com/2012/05/22/blameless-postmortems/ <a href="https://codeascraft.com/2012/05/22/blameless-postmortems" style="color:green" target="_blank">(link)</a>
 
 Allspaw, J. (2016, November 17). Etsy’s Debriefing Facilitation Guide for Blameless Postmortems. Retrieved from https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/ <a href="https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/" style="color:green" target="_blank">(link)</a>
+
+Stopford, B., Wallace, K., & Allspaw, J. (2017). Technical Debt: Challenges and Perspectives. IEEE Software, 34(4), 79-81. doi:10.1109/ms.2017.99
+
