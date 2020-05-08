@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-![it me.](/headshot.jpg "Me.")  
+![it me.](/headshot.png "Me.")  
   
 I'm an engineering leader, researcher, dad, guitarist, and person.  
 I live in Brooklyn, NY.  
