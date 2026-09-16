@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.3"
+gem "jekyll", "~> 4.3.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -27,3 +27,11 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "jekyll-simple-theme"
+
+gem "base64", ">= 0.3.0"
+
+gem "bigdecimal", ">= 4.1"
+
+gem "rexml", ">= 3.4"
+
+gem "csv", ">= 3.3"
